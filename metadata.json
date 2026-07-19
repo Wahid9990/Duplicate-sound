@@ -1,0 +1,6 @@
+{
+  "name": "Duplicate Audio Finder",
+  "description": "Scan and identify duplicate audio files stored on your Android device to free up storage space.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
